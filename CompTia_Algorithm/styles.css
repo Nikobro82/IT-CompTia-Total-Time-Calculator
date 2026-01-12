@@ -1,0 +1,28 @@
+#uploadButton, #clearButton {
+  background-color: black;
+  color: white;         
+  border-radius: 0cqmax;  
+  border-color: silver;       
+  padding: 10px 20px;     
+}
+
+body { 
+  background-color: bisque;
+  background-image: url("/images/background.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color-interpolation-filters: inherit;
+}
+
+#mainImage {
+  width: 350px;
+  height: 350px;
+  color-scheme: inherit;
+  color-interpolation-filters: sRGB;
+ 
+}
+
+#centerDiv {
+  width: 300px;
+  margin: auto;
+}
